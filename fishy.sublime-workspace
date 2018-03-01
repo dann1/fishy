@@ -1,0 +1,1480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forin\tfor … in … done"
+			],
+			[
+				"map",
+				"map_cpu\tfunction"
+			],
+			[
+				"lis",
+				"lista"
+			],
+			[
+				"list",
+				"list_functions"
+			],
+			[
+				"try",
+				"try\tTry/Except/Else"
+			],
+			[
+				"con",
+				"configs"
+			],
+			[
+				"templ",
+				"templates"
+			],
+			[
+				"add",
+				"addon"
+			],
+			[
+				"cl",
+				"class\tkeyword"
+			],
+			[
+				"NI",
+				"NIC_TARGET\tstatement"
+			],
+			[
+				"_",
+				"__contains__"
+			],
+			[
+				"tr",
+				"try exec\tpython-try-exec"
+			],
+			[
+				"VM",
+				"VM_ID\tparam"
+			],
+			[
+				"mdc",
+				"mdc\tMarkdown Codeblock"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"root",
+				"rootfs"
+			],
+			[
+				"bash",
+				"bash-enhancements"
+			],
+			[
+				"enhan",
+				"enhancements"
+			],
+			[
+				"de",
+				"desc"
+			],
+			[
+				"fi",
+				"file"
+			],
+			[
+				"ex",
+				"export"
+			],
+			[
+				"RE",
+				"RED"
+			],
+			[
+				"P",
+				"Projects/\tDir"
+			],
+			[
+				"storage",
+				"storage_sysmap\tfunction"
+			],
+			[
+				"sotrage",
+				"storage_sysmap"
+			],
+			[
+				"da",
+				"dann1-query"
+			],
+			[
+				"dann",
+				"dann1-query"
+			],
+			[
+				"R",
+				"RSYNC_OPTS"
+			],
+			[
+				"rep",
+				"repo"
+			],
+			[
+				"dann1-linx",
+				"dann1-linux-exprox"
+			],
+			[
+				"dan",
+				"dann1"
+			],
+			[
+				"bi",
+				"bibliography"
+			],
+			[
+				"VN",
+				"VNC_PORT\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fishy.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/builds/MarkDown.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Bash Build System/Bash.sublime-build",
+					""
+				],
+				[
+					"Packages/User/builds/Fish.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Bash Build System/Bash.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/builds/MarkDown.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/builds/MarkDown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/builds/Python2.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/builds/Python2.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "proje",
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"project",
+				"Project: Close"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"togsi",
+				"View: Toggle Side Bar"
+			],
+			[
+				"erro",
+				"Anaconda: Show error list"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"togis",
+				"View: Toggle Side Bar"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"arch",
+				"Tasks: Archive within selection(s)"
+			],
+			[
+				"err",
+				"Anaconda: Show error list"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"markdontoc",
+				"MarkdownTOC:Update TOC"
+			],
+			[
+				"markdown",
+				"MarkdownTOC:Update TOC"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"git chec",
+				"Git: Change Branch"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"markd",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"inse",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"packup",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packinn",
+				"Package Control: Install Package"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git res",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git de",
+				"Git: Delete Branch"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"er",
+				"Anaconda: Show error list"
+			],
+			[
+				"",
+				"ANF: Delete File"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"TOGS",
+				"View: Toggle Side Bar"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"projc",
+				"Project: Close"
+			],
+			[
+				"togm",
+				"View: Toggle Menu"
+			],
+			[
+				"mdtoc",
+				"MarkdownTOC:Update TOC"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"mdto",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"snippet",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"sttin",
+				"Preferences: Settings"
+			],
+			[
+				"togmi",
+				"View: Toggle Minimap"
+			],
+			[
+				"ident",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"goto",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"terminal",
+				"Terminal: Open in project folder"
+			],
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"terminalsett",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"packsettin",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"foldta",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"code fol",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"codefold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"packlis",
+				"Package Control: List Packages"
+			],
+			[
+				"paclist",
+				"Package Control: List Packages"
+			],
+			[
+				"packconlis",
+				"Package Control: List Packages"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"markdowntoc",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"markhtml",
+				"Markdown HTML Preview"
+			],
+			[
+				"packsett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"build",
+				"Build With: MarkDown"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"PACKREM",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdo",
+				"Markdown HTML Preview"
+			],
+			[
+				"paccnsett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"packcontrsett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"git doc",
+				"SublimeGit: Documentation"
+			],
+			[
+				"pacsett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"packconin",
+				"Package Control: Install Package"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			],
+			[
+				"paconins",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"dle",
+				"ANF: Delete File"
+			],
+			[
+				"togsid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"togme",
+				"View: Toggle Menu"
+			],
+			[
+				"projec",
+				"Project: Edit"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"packa sett",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"paccon",
+				"Package Control: List Packages"
+			],
+			[
+				"new file",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"prefen",
+				"Preferences: Settings"
+			],
+			[
+				"packcon",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"pac",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"t",
+				"View: Toggle Menu"
+			],
+			[
+				"sett ",
+				"Preferences: Settings"
+			],
+			[
+				"open",
+				"iOpener: Find File"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"qui",
+				"File: Quick File Open"
+			],
+			[
+				"togst",
+				"View: Toggle Status Bar"
+			],
+			[
+				"togs",
+				"View: Toggle Status Bar"
+			],
+			[
+				"tosi",
+				"View: Toggle Side Bar"
+			],
+			[
+				"upc",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lowc",
+				"Convert Case: Lower Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowca",
+				"Convert Case: Lower Case"
+			],
+			[
+				"markdlink",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"uc",
+				"Convert Case: Upper Case"
+			],
+			[
+				"syntamar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"tog",
+				"View: Toggle Status Bar"
+			],
+			[
+				"ogm",
+				"View: Toggle Menu"
+			],
+			[
+				"ogsid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"latex",
+				"LaTeXTools: Check system"
+			],
+			[
+				"packis",
+				"Package Control: Install Package"
+			],
+			[
+				"togsta",
+				"View: Toggle Status Bar"
+			]
+		],
+		"width": 609.0
+	},
+	"console":
+	{
+		"height": 207.0,
+		"history":
+		[
+			"print (a)",
+			"print a",
+			"a=3",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dann1/Projects/fishy"
+	],
+	"file_history":
+	[
+		"/home/dann1/Projects/addon-lxdone/lxdone.TODO",
+		"/home/dann1/Projects/addon-lxdone/addon-lxdone/src/remotes/vmm/lxd/lxd_common.py",
+		"/home/dann1/Projects/addon-lxdone/addon-lxdone/src/remotes/vmm/lxd/deploy.py",
+		"/home/dann1/Projects/addon-lxdone/src/updater.sh",
+		"/home/dann1/Projects/addon-lxdone/src/updater_config.sh",
+		"/home/dann1/Projects/addon-lxdone/Setup.md",
+		"/home/dann1/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/dann1/.config/sublime-text-3/Packages/User/MultiMarkdown.sublime-settings",
+		"/home/dann1/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/dann1/.config/sublime-text-3/Packages/PlainTasks/PlainTasks (Linux).sublime-settings",
+		"/home/dann1/.config/sublime-text-3/Packages/User/PlainTasks.sublime-settings",
+		"/home/dann1/sshfs/rocket/Projects/addon-lxdone/src/remotes/vmm/lxd/deploy.py",
+		"/home/dann1/sshfs/rocket/Projects/lxdone.TODO",
+		"/home/dann1/sshfs/rocket/Projects/addon-lxdone/src/remotes/vmm/lxd/lxd_common.py",
+		"/home/dann1/sshfs/rocket/Projects/addon-lxdone/src/remotes/vmm/lxd/shutdown.py",
+		"/home/dann1/sshfs/rocket/Projects/addon-lxdone/README.md",
+		"/home/dann1/sshfs/rocket/Projects/addon-lxdone/Image.md",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/reboot",
+		"/home/dann1/Downloads/osgearth/osgearth/PKGBUILD",
+		"/home/dann1/Downloads/gwaldron-osgearth-449e80a/CMakeLists.txt",
+		"/home/dann1/Downloads/gwaldron-osgearth-449e80a/LICENSE.txt",
+		"/home/dann1/Projects/svncterm/Makefile",
+		"/home/dann1/Projects/svncterm/raspbian/control",
+		"/home/dann1/Projects/addon-lxdone/README.md",
+		"/home/dann1/Projects/addon-lxdone/Image.md",
+		"/home/dann1/Projects/addon-lxdone/LICENSE",
+		"/home/dann1/VirtualMachines/LXC/Images/templates/hosts.tpl",
+		"/home/dann1/Projects/addon-lxdone/metadata/templates/hosts.tpl",
+		"/home/dann1/.cache/kioexec/krun/16362_0/hosts.tpl",
+		"/home/dann1/VirtualMachines/LXC/Images/templates/hostname.tpl",
+		"/home/dann1/Projects/addon-lxdone/metadata/templates/hostname.tpl",
+		"/home/dann1/Projects/addon-lxdone/metadata/metadata.yaml",
+		"/home/dann1/.cache/kioexec/krun/11168_0/metadata.yaml",
+		"/home/dann1/Projects/addon-lxdone/metadata/templates/upstart-override.tpl",
+		"/home/dann1/Repos/ppa/custom/pool/main/usr/sbin/one-contextd",
+		"/home/dann1/Projects/addon-lxdone/src/one_wait/one-contextd",
+		"/home/dann1/Repos/ppa/custom/pool/main/etc/one-context.d/10-network",
+		"/home/dann1/Projects/addon-lxdone/src/one_wait/10-network",
+		"/home/dann1/Repos/ppa/custom/pool/main/etc/one-context.d/10-network-pci",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/lxd_common.py",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/deploy.py",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/vnc.bash",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/reconfigure",
+		"/home/dann1/Projects/addon-lxdone/Image-new.md",
+		"/home/dann1/VirtualMachines/LXC/Images/meta-debian/metadata.yaml",
+		"/home/dann1/VirtualMachines/LXC/Images/templates/upstart-override.tpl",
+		"/home/dann1/VirtualMachines/LXC/Images/metadata.yaml",
+		"/home/dann1/VirtualMachines/LXC/Images/meta-lxdone/metadata.yaml",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/poll",
+		"/home/dann1/Projects/CloX/rpi-container.md",
+		"/home/dann1/Scripts/pacman-caution",
+		"/home/dann1/Repos/ppa/custom/pool/main/etc/one-context.d/11-dns",
+		"/home/dann1/Repos/ppa/custom/pool/main/etc/one-context.d/05-grow-rootfs",
+		"/home/dann1/Repos/ppa/custom/pool/main/etc/one-context.d/11-fix-loopback",
+		"/home/dann1/Repos/ppa/custom/pool/main/etc/one-context.d/98-execute-scripts",
+		"/home/dann1/Repos/ppa/custom/pool/main/etc/one-context.d/97-start-script",
+		"/home/dann1/Repos/ppa/custom/pool/main/etc/init.d/vmcontext",
+		"/home/dann1/Repos/ppa/custom/pool/main/lib/udev/rules.d/00-context.rules",
+		"/home/dann1/Projects/addon-lxdone/image-handling/build-img.sh",
+		"/home/dann1/Scripts/handy-files/lxd-container-software-list",
+		"/home/dann1/Downloads/lxd-latest/_static/jquery-1.11.1.js",
+		"/home/dann1/Revolico/Revolico Ads",
+		"/home/dann1/Projects/addon-lxdone/test",
+		"/home/dann1/Downloads/zotero/PKGBUILD",
+		"/home/dann1/Projects/addon-lxdone/CONTRIBUTING.md",
+		"/home/dann1/Documents/.notas.txt",
+		"/home/dann1/Projects/addon-lxdone/src/one_wait/nic.rb",
+		"/home/dann1/.config/sublime-text-3/Packages/User/MarkdownTOC.sublime-settings",
+		"/home/dann1/Projects/addon-lxdone/Setup.unified_image.md",
+		"/home/dann1/.config/sublime-text-3/Packages/User/Markdown (Standard).sublime-settings",
+		"/home/dann1/.config/sublime-text-3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/home/dann1/.config/sublime-text-3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/home/dann1/Scripts/ideas.TODO",
+		"/home/dann1/Projects/addon-lxdone/rpi-container.md",
+		"/home/dann1/Scripts/Fish/config.fish",
+		"/home/dann1/Scripts/Fish/tools-config.fish",
+		"/home/dann1/Downloads/first-container-creation",
+		"/home/dann1/.cache/kioexec/krun/25804_0/control",
+		"/home/dann1/.cache/kioexec/krun/25867_0/conffiles",
+		"/home/dann1/Projects/svncterm/ubuntu/control",
+		"/home/dann1/Projects/svncterm/ubuntu/changelog.Debian",
+		"/home/dann1/Projects/vncterm/README",
+		"/home/dann1/Projects/vncterm/Makefile",
+		"/home/dann1/Projects/vncterm/debian/control",
+		"/home/dann1/Projects/svncterm/debian/control",
+		"/home/dann1/Desktop/xenial/control",
+		"/home/dann1/Desktop/root/control",
+		"/home/dann1/Projects/svncterm/README",
+		"/home/dann1/Projects/addon-lxdone/vnc/svncterm_1.2-1_amd64/control",
+		"/home/dann1/Projects/addon-lxdone/vnc/svncterm_1.2-1_amd64/debian-binary",
+		"/home/dann1/Projects/svncterm/centos7/standalone-centos7-install.sh",
+		"/home/dann1/Projects/svncterm/centos7/centos7-install.sh",
+		"/home/dann1/Projects/svncterm/svncterm.pod",
+		"/home/dann1/Projects/svncterm/svncterm.h",
+		"/home/dann1/Projects/svncterm/svncterm.c",
+		"/home/dann1/.cache/kioexec/krun/14595_0/metadata.yaml",
+		"/home/dann1/.cache/kioexec/krun/6193_0/metadata.yaml",
+		"/home/dann1/.cache/kioexec/krun/11685_0/metadata.yaml",
+		"/home/dann1/VirtualMachines/LXC/Images/ubuntu-debmirror.yaml",
+		"/home/dann1/.config/fish/functions/functions.fish",
+		"/home/dann1/.config/fish/config.fish",
+		"/home/dann1/.local/share/omf/pkg/sudope/functions/sudope.fish",
+		"/home/dann1/.local/share/omf/pkg/sudope/key_bindings.fish",
+		"/home/dann1/Projects/addon-lxdone/classes.py",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/poll_common.py",
+		"/home/dann1/Projects/addon-lxdone/lxd_handler.py",
+		"/home/dann1/Projects/lxdone.TODO",
+		"/home/dann1/Downloads/3870269-ce99dfc54aac973efe31dfa88e78da10f744fa5f/git-diff-color-scheme",
+		"/home/dann1/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/dann1/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/dann1/Projects/lxdone.sublime-project",
+		"/home/dann1/.config/sublime-text-3/Packages/sublime-github/GitHub.sublime-settings",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/detach_nic",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/prereconfigure",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/attach_nic",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/attach_disk",
+		"/home/dann1/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/deploy",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/detach_disk",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/migrate",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/save",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/snapshot_create",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/snapshot_delete",
+		"/home/dann1/Projects/addon-lxdone/src/remotes/vmm/lxd/snapshot_revert",
+		"/home/dann1/Scripts/md.md",
+		"/usr/share/applications/gparted.desktop",
+		"/home/dann1/Documents/CUJAE/LXDoNe/formato.txt",
+		"/home/dann1/.config/sublime-text-3/Packages/User/snippets/markdown-toc-html.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xml",
+			"bash",
+			"shell",
+			"ubuntu",
+			"link",
+			"png",
+			"container.",
+			"get_interface_mac",
+			"gen_network_configuration",
+			"650M",
+			"acquire_lock",
+			"criuacquire_lock",
+			"perl",
+			"gen_iface_conf",
+			"interfaces",
+			"/etc/sysconfig/network-scripts/ifcfg-eth0",
+			"execute_scripts",
+			"loop",
+			"CONTEXT_NEW",
+			"bash-enhancements",
+			"lxd-br",
+			"/path/to/addon-lxdone/src/one-wait/",
+			"-p ",
+			"one-context.d",
+			"fully",
+			"function",
+			"clas",
+			"vnc",
+			"/dev/loop0",
+			"remotes-lui/context",
+			"colu",
+			"wrap",
+			"#",
+			"svnc",
+			"libvn",
+			"sudo",
+			"drive",
+			"xhandler",
+			"xqi",
+			"dicc",
+			"xml_query_list",
+			"lc.",
+			"dicc",
+			"class",
+			"arg",
+			"nfs-ker",
+			"fun",
+			"NIC_IP",
+			":",
+			"if",
+			"cpu",
+			"exe",
+			"note",
+			"space",
+			"spaces",
+			"tab",
+			"indent",
+			"10.8.11.4",
+			"boot",
+			"workg",
+			"ex",
+			"exe",
+			"Exec=",
+			"exe",
+			"Exec",
+			"/",
+			"./",
+			"cd",
+			"arg",
+			"ubuntu",
+			"x86_64",
+			"var",
+			"xenial",
+			"distro",
+			"wheezy",
+			"wd",
+			"west",
+			"sata",
+			"su",
+			"choice",
+			"tar",
+			",",
+			"hidden",
+			"them",
+			"disk",
+			"'one-' + VM_ID",
+			"VM_ID",
+			"container",
+			"client",
+			"source",
+			"NIC_TARGET",
+			"nic_mac",
+			"nic_name",
+			"nic_bridge",
+			"NIC_MAC",
+			"NIC_BRIDGE",
+			"memory",
+			"MEMORY",
+			"VCPU",
+			"cpu",
+			"CPU",
+			"path",
+			"DISK_TARGET",
+			"source",
+			"DISK_TYPE",
+			"DISK_SOURCE",
+			"DS_ID",
+			"DISK_TYPE",
+			"VM_ID",
+			"source",
+			"DISK_TYPE",
+			"SOURCE",
+			"source",
+			"SOURCE",
+			"source",
+			"SOURCE",
+			"source",
+			"SOURCE",
+			"source",
+			"SOURCE",
+			"source",
+			"DISK",
+			"disk",
+			"DISK",
+			"disk",
+			"DISK",
+			"disk",
+			"DISK_TYPE"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fishy.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 140.0
+	},
+	"output.latextools":
+	{
+		"height": 128.0
+	},
+	"output.markdown":
+	{
+		"height": 128.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fishy.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"proje",
+				"fishy.sublime-project"
+			],
+			[
+				"comm",
+				"src/remotes/vmm/lxd/lxd_common.py"
+			],
+			[
+				"depl",
+				"src/remotes/vmm/lxd/deploy.py"
+			],
+			[
+				"set",
+				"Setup.md"
+			],
+			[
+				"shu",
+				"src/remotes/vmm/lxd/shutdown.py"
+			],
+			[
+				"rebo",
+				"src/remotes/vmm/lxd/reboot"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"im",
+				"Image.md"
+			],
+			[
+				"ima",
+				"Image.md"
+			],
+			[
+				"",
+				"README.md"
+			],
+			[
+				"vnc",
+				"src/remotes/vmm/lxd/vnc.bash"
+			],
+			[
+				"lxd",
+				"src/remotes/vmm/lxd/lxd_common.py"
+			],
+			[
+				"como",
+				"src/remotes/vmm/lxd/lxd_common.py"
+			],
+			[
+				"one",
+				"src/remotes/vmm/lxd/reconfigure"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"po",
+				"src/remotes/vmm/lxd/poll"
+			],
+			[
+				"test",
+				"test"
+			],
+			[
+				"imag",
+				"Image.md"
+			],
+			[
+				"vnc.",
+				"src/remotes/vmm/lxd/vnc.bash"
+			],
+			[
+				"lx",
+				"src/remotes/vmm/lxd/lxd_common.py"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"poll",
+				"src/remotes/vmm/lxd/poll"
+			],
+			[
+				"rec",
+				"src/remotes/vmm/lxd/reconfigure"
+			],
+			[
+				"pre",
+				"src/remotes/vmm/lxd/prereconfigure"
+			],
+			[
+				"att",
+				"src/remotes/vmm/lxd/attach_nic"
+			],
+			[
+				"dta",
+				"src/remotes/vmm/lxd/detach_nic"
+			],
+			[
+				"sav",
+				"src/remotes/vmm/lxd/save"
+			],
+			[
+				"migra",
+				"src/remotes/vmm/lxd/migrate"
+			],
+			[
+				"setu",
+				"Setup.md"
+			],
+			[
+				"lxdon",
+				"src/remotes/vmm/lxd/lxd_common.py"
+			],
+			[
+				"sh",
+				"image-handling/build-img.sh"
+			],
+			[
+				"r",
+				"README.md"
+			],
+			[
+				"buil",
+				"image-handling/build-img.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "fis",
+		"selected_items":
+		[
+			[
+				"fis",
+				"~/Projects/FishTools/fish-tools.sublime-project"
+			],
+			[
+				"lxd",
+				"~/Projects/addon-lxdone/lxdone.sublime-project"
+			],
+			[
+				"lx",
+				"~/Projects/addon-lxdone/lxdone.sublime-project"
+			],
+			[
+				"scr",
+				"~/Scripts/scripts.sublime-project"
+			],
+			[
+				"sc",
+				"~/Scripts/scripts.sublime-project"
+			],
+			[
+				"",
+				"~/Projects/cujae.sublime-project"
+			],
+			[
+				"c",
+				"~/Projects/cujae.sublime-project"
+			],
+			[
+				"cuj",
+				"~/Projects/cujae.sublime-project"
+			],
+			[
+				"net",
+				"~/Documents/CUJAE/Asignaturas/NetSim/netsim.sublime-project"
+			],
+			[
+				"cl",
+				"~/Projects/clox.sublime-project"
+			],
+			[
+				"clo",
+				"~/Projects/clox.sublime-project"
+			],
+			[
+				"mina",
+				"~/Projects/minag.sublime-project"
+			],
+			[
+				"sh",
+				"~/Projects/shell-tweak.sublime-project"
+			],
+			[
+				"she",
+				"~/Projects/shell-tweak.sublime-project"
+			],
+			[
+				"fish",
+				"~/Projects/fish-tools.sublime-project"
+			],
+			[
+				"f",
+				"~/Projects/fish-tools.sublime-project"
+			],
+			[
+				"fi",
+				"~/Projects/fish-tools.sublime-project"
+			],
+			[
+				"yak",
+				"~/Projects/yakuake-skin-breeze-tiny.sublime-project"
+			],
+			[
+				"ya",
+				"~/Projects/yakuake-skin-breeze-tiny.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
